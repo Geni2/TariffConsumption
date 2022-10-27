@@ -1,0 +1,15 @@
+D:\VisualStudio Project\Learning Process\TariffComparison\bin\Debug\net6.0\TariffComparison.exe
+D:\VisualStudio Project\Learning Process\TariffComparison\bin\Debug\net6.0\TariffComparison.deps.json
+D:\VisualStudio Project\Learning Process\TariffComparison\bin\Debug\net6.0\TariffComparison.runtimeconfig.json
+D:\VisualStudio Project\Learning Process\TariffComparison\bin\Debug\net6.0\TariffComparison.dll
+D:\VisualStudio Project\Learning Process\TariffComparison\bin\Debug\net6.0\TariffComparison.pdb
+D:\VisualStudio Project\Learning Process\TariffComparison\obj\Debug\net6.0\TariffComparison.csproj.AssemblyReference.cache
+D:\VisualStudio Project\Learning Process\TariffComparison\obj\Debug\net6.0\TariffComparison.GeneratedMSBuildEditorConfig.editorconfig
+D:\VisualStudio Project\Learning Process\TariffComparison\obj\Debug\net6.0\TariffComparison.AssemblyInfoInputs.cache
+D:\VisualStudio Project\Learning Process\TariffComparison\obj\Debug\net6.0\TariffComparison.AssemblyInfo.cs
+D:\VisualStudio Project\Learning Process\TariffComparison\obj\Debug\net6.0\TariffComparison.csproj.CoreCompileInputs.cache
+D:\VisualStudio Project\Learning Process\TariffComparison\obj\Debug\net6.0\TariffComparison.dll
+D:\VisualStudio Project\Learning Process\TariffComparison\obj\Debug\net6.0\refint\TariffComparison.dll
+D:\VisualStudio Project\Learning Process\TariffComparison\obj\Debug\net6.0\TariffComparison.pdb
+D:\VisualStudio Project\Learning Process\TariffComparison\obj\Debug\net6.0\TariffComparison.genruntimeconfig.cache
+D:\VisualStudio Project\Learning Process\TariffComparison\obj\Debug\net6.0\ref\TariffComparison.dll
